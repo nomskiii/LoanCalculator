@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Loan Calculator</string>
+    <string name="loan_amount">Loan Amount ($)</string>
+    <string name="interest_rate">Interest Rate (%/yr)</string>
+    <string name="loan_term">Loan Term (yrs)</string>
+    <string name="loan_fees">Loan Fees ($) </string>
+    <string name="monthly_payment">Monthly Payment $</string>
+    <string name="total_interest">Total Interest $</string>
+</resources>
